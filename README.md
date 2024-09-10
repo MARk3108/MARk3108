@@ -35,7 +35,7 @@
 Проект представляет собой систему навигации в помещении в реальном времени для хоккейных игр. Система отслеживает местоположение игроков на льду и собирает их игровые метрики и статистику.
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIce_Hockey_Deke.gif&psig=AOvVaw3kldueMjbyrTwB9_uM6ehX&ust=1726070970064000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCIwobhuIgDFQAAAAAdAAAAABAJ" width="500" alt="Indoor navigation GIF" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ice_Hockey_Deke.gif?20120210043435" width="500" alt="Indoor navigation GIF" />
 </p>
 
 **Мои задачи:**
