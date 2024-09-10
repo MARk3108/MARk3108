@@ -35,7 +35,7 @@
 Проект представляет собой систему навигации в помещении в реальном времени для хоккейных игр. Система отслеживает местоположение игроков на льду и собирает их игровые метрики и статистику.
 
 <p align="center">
-  <img src="https://pin.it/2T02XcLEt" width="500" alt="Indoor navigation GIF" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.pinterest.com%2Fpin%2F437482551284426404%2F&psig=AOvVaw3kldueMjbyrTwB9_uM6ehX&ust=1726070970064000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCIwobhuIgDFQAAAAAdAAAAABAE" width="500" alt="Indoor navigation GIF" />
 </p>
 
 **Мои задачи:**
