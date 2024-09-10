@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KiX5PkTi8C8F42ZmEz/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/189931803af24fea969fe9d0b6631431.gif" width="400" alt="Coding GIF" />
 </p>
 
 ---
