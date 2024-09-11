@@ -3,7 +3,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnByOXg4OWtkYmZ4cml3eTMyNXE5OWo2Z2I0dXg0M2N0eWVpYTRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 
 Меня зовут Марк, и я специализируюсь на создании производительных и масштабируемых приложений с использованием языка Go. Здесь вы можете узнать о моих навыках, проектах и достижениях.
-
+---
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARk3108&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
