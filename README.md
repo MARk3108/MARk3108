@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-GORM-00ADD8?logo=go&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-PHP-00ADD8?logo=go&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Laravel-00ADD8?logo=go&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Fiber-00ADD8?logo=go&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" />
