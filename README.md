@@ -3,8 +3,6 @@
 
 Меня зовут Марк, и я увлечен backend разработкой. Здесь вы можете узнать о моих навыках, проектах и достижениях.
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARk3108&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
 ## 🚀 Технологии и инструменты
 
 <p align="center">
